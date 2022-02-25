@@ -15,34 +15,43 @@
 
 <h3 align="center">Wanna connect with me!</h3>
 <p align="center">
-<a href="https://linkedin.com/in/gourob-saha-632751200" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="gourob-saha-632751200" height="30" width="40" /></a>
-<a href="https://fb.com/surjo.saha.547" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surjo.saha.547" height="30" width="40" /></a>
-<a href="https://instagram.com/gourob_saha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gourob_saha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gourob-saha-632751200" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin-circled--v1.png" alt="gourob-saha-632751200" width="35" /></a>
+<a href="https://fb.com/surjo.saha.547" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="gourob-saha-632751200" width="33" /></a>
+<a href="https://instagram.com/gourob_saha" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="gourob_saha" width="38" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+<h3 align="center">💻 Languages:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="c#" width="38" height="38"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="java" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>  
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourobsaha&show_icons=true&locale=en&layout=compact" alt="gourobsaha" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourobsaha&show_icons=true&locale=en" alt="gourobsaha" /></p>
+<h3 align="center">🛠️ Tools:</h3>  
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourobsaha&" alt="gourobsaha" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gourobsaha&label=Profile%20views&color=0e75b6&style=flat" alt="gourobsaha" /> </p>
+<p align="center">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/> </a> 
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/officel/80/000000/java-eclipse.png" alt="Java Eclipse" width="35" height="35"/> </a>   
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png" alt="photoshop" width="40" height="40"/> </a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v2.png" alt="xd" width="40" height="40"/> </a> 
+<a href="https://developer.android.com/studio?gclsrc=ds&gclsrc=ds" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" width="40" height="40"/> </a>  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" width="40" height="40"/> </a>   
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gourobsaha" alt="gourobsaha" /></a> </p>
+</p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourobsaha&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="gourobsaha"/></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gourobsaha&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="gourobsaha" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourobsaha&theme=nightowl&hide_border=true" alt="gourobsaha"/></p>
+
+
+<p align="center"><img align="center" src=https://activity-graph.herokuapp.com/graph?username=gourobsaha&bg_color=011627&color=c691e9&line=7edac9&point=feea94&area=true&hide_border=true alt="gourobsaha" /></a> </p>
