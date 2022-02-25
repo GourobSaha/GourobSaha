@@ -15,9 +15,9 @@
 
 <h3 align="center">Wanna connect with me!</h3>
 <p align="center">
-<a href="https://linkedin.com/in/gourob-saha-632751200" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin-circled--v1.png" alt="gourob-saha-632751200" width="35" /></a>
+<a href="https://linkedin.com/in/gourob-saha-632751200" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="gourob-saha-632751200" width="35" /></a>
 <a href="https://fb.com/surjo.saha.547" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="gourob-saha-632751200" width="33" /></a>
-<a href="https://instagram.com/gourob_saha" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="gourob_saha" width="38" /></a>
+<a href="https://instagram.com/gourob_saha" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="gourob_saha" width="35" /></a>
 </p>
 
 <h3 align="center">💻 Languages:</h3>
