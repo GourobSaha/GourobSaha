@@ -28,7 +28,6 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>  
 </p>
 
 
@@ -41,6 +40,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png" alt="photoshop" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v2.png" alt="xd" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>  
 <a href="https://developer.android.com/studio?gclsrc=ds&gclsrc=ds" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" width="40" height="40"/> </a>  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" width="40" height="40"/> </a>   
