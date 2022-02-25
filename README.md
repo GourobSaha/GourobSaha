@@ -28,6 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourobsaha&show_icons=true&locale=en" alt="gourobsaha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourobsaha&" alt="gourobsaha" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourobsaha&label=Profile%20views&color=0e75b6&style=flat" alt="gourobsaha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gourobsaha&label=Profile%20views&color=0e75b6&style=flat" alt="gourobsaha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gourobsaha" alt="gourobsaha" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gourobsaha" alt="gourobsaha" /></a> </p>
