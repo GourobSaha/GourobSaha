@@ -15,9 +15,9 @@
 
 <h3 align="center">Wanna connect with me!</h3>
 <p align="center">
-<a href="https://linkedin.com/in/gourob-saha-632751200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourob-saha-632751200" height="30" width="40" /></a>
-<a href="https://fb.com/surjo.saha.547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surjo.saha.547" height="30" width="40" /></a>
-<a href="https://instagram.com/gourob_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gourob_saha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gourob-saha-632751200" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourob-saha-632751200" height="30" width="40" /></a>
+<a href="https://fb.com/surjo.saha.547" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surjo.saha.547" height="30" width="40" /></a>
+<a href="https://instagram.com/gourob_saha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gourob_saha" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
