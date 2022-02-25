@@ -11,7 +11,7 @@
 
 - 📫 For any further information: **gourobsaha009@gmail.com**
 
-- ⚡ Fun fact: **I can draw beautiful sketchs**
+- ⚡ Fun fact: **I can draw beautiful sketches**
 
 <h3 align="center">Wanna connect with me!</h3>
 <p align="center">
