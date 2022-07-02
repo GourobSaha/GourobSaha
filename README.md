@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development & Machine Learning**
 
-- 🌱 I’m currently learning **matlab**
+- 🌱 I’m currently learning **Web Design**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
