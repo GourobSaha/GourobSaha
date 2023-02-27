@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gourob Saha Surjo</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Gourob+Saha+Surjo...;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 <h3 align="center">A passionate web developer & artificial intelligence enthusiast.</h3>
 
 
@@ -43,9 +47,15 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ##
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourobsaha&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="gourobsaha"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gourobsaha&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="gourobsaha" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourobsaha&theme=nightowl&hide_border=true" alt="gourobsaha"/></p>
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=gourobsaha&show_icons=true&locale=en&theme=nightowl&hide_border=true" width="100%"/>
