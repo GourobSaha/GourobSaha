@@ -6,15 +6,15 @@
 <h3 align="center">A passionate web developer & artificial intelligence enthusiast.</h3>
 
 
-- 🔭 I’m currently working on **MERN stack development**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" height="20"> I’m currently working on **MERN stack development**
 
-- 🌱 I’m currently learning **NEXT.JS**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" height="20"> I’m currently learning **NEXT.JS**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fc/512.gif" alt="✌" height="20"> I’m looking to collaborate on **Web Development**
 
-- 📫 For any further information: **gourobsaha009@gmail.com**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ce_fe0f/512.gif" alt="🛎" height="20"> For any further information: **gourobsaha009@gmail.com** 
 
-- ⚡ Fun fact: **I can draw beautiful sketches**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" height="20"> Fun fact: **I can draw beautiful sketches**
 
 
 <h3 align="center">Wanna connect with me!</h3>
@@ -24,7 +24,7 @@
 <a href="https://instagram.com/gourob_saha" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="gourob_saha" width="35" /></a>
 </p>
 <br>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> Languages & Frameworks & Tools & Abilities <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></h2>
 <br>
 <div align="center">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_js_official_icon_130509.png"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_tailwind_icon_130128.png"/>
@@ -34,7 +34,7 @@
 <img src="https://cdn.icon-icons.com/icons2/1243/PNG/48/adobeillustratoricon_84157.png"/> <img src="https://cdn.icon-icons.com/icons2/1243/PNG/48/adobephotoshopicon_84144.png"/> <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" height="48"/> <img src="https://cdn.icon-icons.com/icons2/2429/PNG/48/figma_logo_icon_147289.png"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_storybook_icon_130145.png"/>
 </div>
 <br>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></h2>
 <br>
 
 
