@@ -35,12 +35,13 @@
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></h2>
 <br>
 
-<table align="center">
+<table align="center" border="2">
   <tr>
-    <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourobsaha&show_icons=true&locale=en&theme=nightowl&hide_border=true&layout=pie" alt="gourobsaha"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=gourobsaha&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="gourobsaha" /></td>
+    <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourobsaha&show_icons=true&locale=en&theme=codeSTACKr&hide_border=true&layout=pie" alt="gourobsaha"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=gourobsaha&show_icons=true&locale=en&theme=codeSTACKr&hide_border=true" alt="gourobsaha" /></td>
  </tr>
- <trbackground="none">
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourobsaha&theme=nightowl&hide_border=true" alt="gourobsaha"/></td>
+ <tr>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourobsaha&theme=codeSTACKr&hide_border=true" alt="gourobsaha"/></td>
  </tr>
 </table> 
+
