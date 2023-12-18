@@ -28,7 +28,12 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nestjs,styledcomponents,tailwind,nodejs,express,nestjs,mongodb,firebase,vercel,java,python,c,cs,mysql,vscode,postman,androidstudio,eclipse,github,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nestjs,styledcomponents,tailwind,nodejs,express,nestjs,mongodb,firebase,vercel" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,cs,mysql,vscode,postman,androidstudio,eclipse,github,ai,ps" />
   </a>
 </p>
 <br>
