@@ -6,11 +6,10 @@
 <div align="center">
   
 </div>
+
 <h3 align="center">A passionate software developer & artificial intelligence enthusiast.</h3>
 <br/>
-
-
-<img align="right" width="200" src="https://i.ibb.co/16Yt9HN/Gourob-2.png" alt="pp" />
+<img align="right" width="180" src="https://i.ibb.co/16Yt9HN/Gourob-2.png" alt="pp" />
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" height="20"> I’m currently working on **Back-End development**
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" height="20"> I’m currently learning **NEST.JS**
