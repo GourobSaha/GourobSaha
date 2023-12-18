@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Rubik+Doodle+Shadow&size=25&pause=1000&color=F78518&center=true&vCenter=true&random=false&width=450&lines=Hello,+There!+👋;+May+the+force+be+wtih+you!;&center=true&size=25">
   </a>
 </h1>
+
 <div align="center">
-  
+<img width="150" src="https://i.ibb.co/16Yt9HN/Gourob-2.png" alt="pp" />
 </div>
 
 <h3 align="center">A passionate software developer & artificial intelligence enthusiast.</h3>
 <br/>
-<img align="right" width="170" src="https://i.ibb.co/16Yt9HN/Gourob-2.png" alt="pp" />
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" height="20"> I’m currently working on **Back-End development**
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" height="20"> I’m currently learning **NEST.JS**
