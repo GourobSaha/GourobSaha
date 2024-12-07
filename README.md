@@ -12,7 +12,7 @@
 <br/>
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" height="20"> I’m currently working on **Back-End development**
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" height="20"> I’m currently learning **NEST.JS**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" height="20"> I’m currently learning **PostgreSQL**
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fc/512.gif" alt="✌" height="20"> I’m looking to collaborate on **Software Development**
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ce_fe0f/512.gif" alt="🛎" height="20"> For any further information: **gourobsaha009@gmail.com**
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" height="20"> Fun fact: **I can draw beautiful sketches**
